@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! 👋 Nice to see you guys! </h1>
 <h3 align="center">Welcome to my page. </h3>
-<h5 align="left">I'm a Data Analyst from Montréal  </h5>
+<h5 align="center">I'm a Data Analyst from Montréal  </h5>
 
 <p align="center">
   <a href="https://app.usebraintrust.com/talent/329901/" target="_blank">
