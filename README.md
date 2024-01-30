@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! 👋 Nice to see you guys! </h1>
 <h3 align="center">Welcome to my page. </h3>
-<h3 align="left">I'm a Data Scientist from Montreal, Quebec, Canada to my page. </h3>
+<h2 align="left">I'm a Data Analyst from Montreal  </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matusoff&label=Profile%20views&color=0e75b6&style=flat" alt="matusoff" /> </p>
 
