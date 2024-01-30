@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matusovskyphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matusovskyphd" height="30" width="40" /></a>
-<a href="https://app.usebraintrust.com/talent/329901/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/braintrust.svg" alt="talent/329901" height="30" width="40" /></a>  
+<a href="https://app.usebraintrust.com/talent/329901/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/braintrust.svg" alt="https://cryptologos.cc/logos/braintrust-btrst-logo.png?v=029" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/oleg-matusovsky-66256775/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-matusovsky" height="30" width="40" /></a>
 </p>
 
