@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! 👋 Nice to see you guys! </h1>
 <h3 align="center">Welcome to my page. </h3>
 <h5 align="left">I'm a Data Analyst from Montréal  </h5>
-![image](https://github.com/matusoff/matusoff/assets/94809104/648510fd-685c-4d54-8c0e-d679dd4c851f)
+https://github.com/matusoff/matusoff/assets/94809104/648510fd-685c-4d54-8c0e-d679dd4c851f
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matusoff&label=Profile%20views&color=0e75b6&style=flat" alt="matusoff" /> </p>
 
