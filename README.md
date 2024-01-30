@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋, I'm Data Scientist from Canada</h1>
+<h1 align="center">Hello world 👋</h1>
 <h3 align="center">@Matusoff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matusoff&label=Profile%20views&color=0e75b6&style=flat" alt="matusoff" /> </p>
