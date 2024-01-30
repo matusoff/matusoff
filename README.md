@@ -1,7 +1,13 @@
 <h1 align="center">Hello world! 👋 Nice to see you guys! </h1>
 <h3 align="center">Welcome to my page. </h3>
 <h5 align="left">I'm a Data Analyst from Montréal  </h5>
-<p href="https://app.usebraintrust.com/talent/329901/" target="_blank"><img align="center"  src="https://64.media.tumblr.com/f4a3f1b5a82ac2ff50944493961d7f7e/tumblr_o21le8iWyh1rjatglo4_r2_400.gifv" width="480" height="360" frameBorder="0" class="giphy-embed" alt="Braintrust" height="10" width="20"/></p>
+
+<p align="center">
+  <a href="https://app.usebraintrust.com/talent/329901/" target="_blank">
+    <img src="https://64.media.tumblr.com/f4a3f1b5a82ac2ff50944493961d7f7e/tumblr_o21le8iWyh1rjatglo4_r2_400.gifv" width="480" height="360" alt="Braintrust" />
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matusoff&label=Profile%20views&color=0e75b6&style=flat" alt="matusoff" /> </p>
 <p align="left"> <a href="https://twitter.com/matusovskyphd" target="blank"><img src="https://img.shields.io/twitter/follow/matusovskyphd?logo=twitter&style=for-the-badge" alt="matusovskyphd" /></a> </p>
