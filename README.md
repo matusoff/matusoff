@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/matusovskyphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matusovskyphd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/oleg-matusovsky-66256775/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-matusovsky" height="30" width="40" /></a>
-<a href="https://app.usebraintrust.com/talent/329901/" target="_blank"><img align="center"  src="https://ucresearch.tumblr.com/post/138868208574" width="480" height="360" frameBorder="0" class="giphy-embed" alt="Braintrust" height="30" width="60"/></a>
+<a href="https://app.usebraintrust.com/talent/329901/" target="_blank"><img align="center"  src="https://64.media.tumblr.com/f4a3f1b5a82ac2ff50944493961d7f7e/tumblr_o21le8iWyh1rjatglo4_r2_400.gifv" width="480" height="360" frameBorder="0" class="giphy-embed" alt="Braintrust" height="30" width="60"/></a>
 </p>
 
 
